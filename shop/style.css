@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+    background-color: #46BDC6;
+}
+
+h2 {
+    text-decoration: orange underline;
+}
+
+h3 {
+    margin: 20px;
+}
+
+a {
+    color: #46BDC6;
+}
+
+p {
+    color: black;
+}
+
+div {
+    color: orange;
+    background-color: #F5F5EC;
+    margin: 20px;
+}

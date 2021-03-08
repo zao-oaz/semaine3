@@ -1,0 +1,36 @@
+header{
+    color: white;
+    background-color: #46BDC6;
+    font-size: 30px;
+}
+
+.bloug {
+    color: white;
+    background-color: #46BDC6;
+}
+
+h1 {
+    text-decoration: orange underline;
+}
+
+h2 {
+    margin: 20px;
+    font-size: 20px;
+}
+
+p {
+    color: black;
+}
+
+a {
+    color: #46BDC6;
+}
+
+article{
+    color: orange;
+    background-color: #F5F5EC;
+    margin: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
